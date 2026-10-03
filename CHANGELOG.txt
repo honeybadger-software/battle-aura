@@ -1,0 +1,10 @@
+3.1.1
+  - Fixed: BIGGEST HIT now comes from your real per-hit numbers. It no longer shows 0 after a fight, your best hit is
+    recorded, and "NEW BEST HIT!" fires. (While grouped it uses the game's own meter number, as other players' hits
+    land on your target.)
+
+3.1.0 - first public release
+  - Cinematic Battle Aura frame with live YOUR DAMAGE, BIGGEST HIT and DPS
+  - Floating per-hit numbers with crits, impact shake, rings, embers and a spark-line comet
+  - Combo counter, hurt flash, personal-best banners, /ba test preview
+  - Fixed: BIGGEST HIT showing '--' at the end of a fight

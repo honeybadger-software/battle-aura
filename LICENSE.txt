@@ -1,0 +1,5 @@
+Copyright (c) 2026 Honey Badger Software Designs. All Rights Reserved.
+
+Battle Aura is free to download and use with World of Warcraft.
+The Lua source is included and readable, as Blizzard's UI AddOn policy requires.
+You may not sell it, or redistribute modified copies, without written permission.
